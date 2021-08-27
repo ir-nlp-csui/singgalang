@@ -1,5 +1,5 @@
-trainFile = stanford-exp.tsv
-serializeTo = ../model/idner-model-std.ser.gz
+trainFile = SINGGALANG.tsv
+serializeTo = ../model/idner-model-singgalang.ser.gz
 map = word=0,answer=1
 
 useClassFeature=true
