@@ -43,3 +43,5 @@ The steps to create NER model using Stanford NER library are as follows:
         java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier idner-model-20k-mdee.ser.gz -testFile testing.txt 
    
 
+## Contact
+ika.alfina [at] cs.ui.ac.id
