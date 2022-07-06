@@ -44,7 +44,7 @@ The steps to create NER model using Stanford NER library are as follows:
    
 ## Licence
 You can use this dataset for free. You don't need our permission to use it. Please cite our paper if your work uses our data in your publication.
-Please note that you are not allowed to create a copy of this dataset and share it publicly in your own repository withour our permission.
+Please note that you are not allowed to create a copy of this dataset and share it publicly in your own repository without our permission.
 
 ## Contact
 ika.alfina [at] cs.ui.ac.id
